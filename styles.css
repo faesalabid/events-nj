@@ -112,7 +112,7 @@ body {
     margin-top: 6px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .results-grid-3-col {
     grid-template-columns: 1fr;
   }
@@ -424,7 +424,7 @@ a:hover path {
   color: #999;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .pagination-wrapper {
     gap: 5px;
   }
@@ -450,4 +450,5 @@ a:hover path {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
+
 
