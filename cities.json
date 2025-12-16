@@ -1,0 +1,3098 @@
+[
+  {
+    "state": "NJ",
+    "city": "Avenel",
+    "lat": 40.582568,
+    "lng": -74.278522
+  },
+  {
+    "state": "NJ",
+    "city": "Bayonne",
+    "lat": 40.666399,
+    "lng": -74.119169
+  },
+  {
+    "state": "NJ",
+    "city": "Bloomfield",
+    "lat": 40.803456,
+    "lng": -74.189074
+  },
+  {
+    "state": "NJ",
+    "city": "Fairfield",
+    "lat": 40.882178,
+    "lng": -74.296027
+  },
+  {
+    "state": "NJ",
+    "city": "Boonton",
+    "lat": 40.911528,
+    "lng": -74.414035
+  },
+  {
+    "state": "NJ",
+    "city": "West Caldwell",
+    "lat": 40.849059,
+    "lng": -74.276771
+  },
+  {
+    "state": "NJ",
+    "city": "Carteret",
+    "lat": 40.582278,
+    "lng": -74.231345
+  },
+  {
+    "state": "NJ",
+    "city": "Cedar Grove",
+    "lat": 40.85344,
+    "lng": -74.229672
+  },
+  {
+    "state": "NJ",
+    "city": "Cliffside Park",
+    "lat": 40.822168,
+    "lng": -73.987982
+  },
+  {
+    "state": "NJ",
+    "city": "Clifton",
+    "lat": 40.878876,
+    "lng": -74.142459
+  },
+  {
+    "state": "NJ",
+    "city": "Clifton",
+    "lat": 40.848835,
+    "lng": -74.161172
+  },
+  {
+    "state": "NJ",
+    "city": "Clifton",
+    "lat": 40.869334,
+    "lng": -74.171144
+  },
+  {
+    "state": "NJ",
+    "city": "Clifton",
+    "lat": 40.834375,
+    "lng": -74.137682
+  },
+  {
+    "state": "NJ",
+    "city": "Cranford",
+    "lat": 40.655357,
+    "lng": -74.305685
+  },
+  {
+    "state": "NJ",
+    "city": "East Orange",
+    "lat": 40.769614,
+    "lng": -74.207723
+  },
+  {
+    "state": "NJ",
+    "city": "East Orange",
+    "lat": 40.755799,
+    "lng": -74.219822
+  },
+  {
+    "state": "NJ",
+    "city": "Edgewater",
+    "lat": 40.831654,
+    "lng": -73.973821
+  },
+  {
+    "state": "NJ",
+    "city": "Essex Fells",
+    "lat": 40.827924,
+    "lng": -74.279705
+  },
+  {
+    "state": "NJ",
+    "city": "Fairview",
+    "lat": 40.816985,
+    "lng": -73.999967
+  },
+  {
+    "state": "NJ",
+    "city": "Fanwood",
+    "lat": 40.641856,
+    "lng": -74.386762
+  },
+  {
+    "state": "NJ",
+    "city": "Fort Lee",
+    "lat": 40.850312,
+    "lng": -73.974455
+  },
+  {
+    "state": "NJ",
+    "city": "Garfield",
+    "lat": 40.878886,
+    "lng": -74.108141
+  },
+  {
+    "state": "NJ",
+    "city": "Garwood",
+    "lat": 40.65121,
+    "lng": -74.323864
+  },
+  {
+    "state": "NJ",
+    "city": "Glen Ridge",
+    "lat": 40.804015,
+    "lng": -74.205477
+  },
+  {
+    "state": "NJ",
+    "city": "Kearny",
+    "lat": 40.74754,
+    "lng": -74.155871
+  },
+  {
+    "state": "NJ",
+    "city": "Hoboken",
+    "lat": 40.7445,
+    "lng": -74.032863
+  },
+  {
+    "state": "NJ",
+    "city": "North Arlington",
+    "lat": 40.78977,
+    "lng": -74.134288
+  },
+  {
+    "state": "NJ",
+    "city": "Kearny",
+    "lat": 40.76466,
+    "lng": -74.147108
+  },
+  {
+    "state": "NJ",
+    "city": "Kenilworth",
+    "lat": 40.675869,
+    "lng": -74.294419
+  },
+  {
+    "state": "NJ",
+    "city": "Lake Hiawatha",
+    "lat": 40.88252,
+    "lng": -74.383013
+  },
+  {
+    "state": "NJ",
+    "city": "Lincoln Park",
+    "lat": 40.920769,
+    "lng": -74.299512
+  },
+  {
+    "state": "NJ",
+    "city": "Linden",
+    "lat": 40.635366,
+    "lng": -74.255567
+  },
+  {
+    "state": "NJ",
+    "city": "Livingston",
+    "lat": 40.789633,
+    "lng": -74.3202
+  },
+  {
+    "state": "NJ",
+    "city": "Maplewood",
+    "lat": 40.727906,
+    "lng": -74.265573
+  },
+  {
+    "state": "NJ",
+    "city": "Millburn",
+    "lat": 40.722798,
+    "lng": -74.301469
+  },
+  {
+    "state": "NJ",
+    "city": "Montclair",
+    "lat": 40.81307,
+    "lng": -74.216467
+  },
+  {
+    "state": "NJ",
+    "city": "Montclair",
+    "lat": 40.843023,
+    "lng": -74.201104
+  },
+  {
+    "state": "NJ",
+    "city": "Verona",
+    "lat": 40.831928,
+    "lng": -74.242847
+  },
+  {
+    "state": "NJ",
+    "city": "Montville",
+    "lat": 40.904914,
+    "lng": -74.36456
+  },
+  {
+    "state": "NJ",
+    "city": "Mountain Lakes",
+    "lat": 40.890447,
+    "lng": -74.441487
+  },
+  {
+    "state": "NJ",
+    "city": "North Bergen",
+    "lat": 40.793019,
+    "lng": -74.017715
+  },
+  {
+    "state": "NJ",
+    "city": "Orange",
+    "lat": 40.769223,
+    "lng": -74.2355
+  },
+  {
+    "state": "NJ",
+    "city": "West Orange",
+    "lat": 40.785926,
+    "lng": -74.256765
+  },
+  {
+    "state": "NJ",
+    "city": "Parsippany",
+    "lat": 40.862106,
+    "lng": -74.411663
+  },
+  {
+    "state": "NJ",
+    "city": "Passaic",
+    "lat": 40.860132,
+    "lng": -74.128348
+  },
+  {
+    "state": "NJ",
+    "city": "Wallington",
+    "lat": 40.85356,
+    "lng": -74.107937
+  },
+  {
+    "state": "NJ",
+    "city": "Pine Brook",
+    "lat": 40.874207,
+    "lng": -74.350009
+  },
+  {
+    "state": "NJ",
+    "city": "Warren",
+    "lat": 40.631787,
+    "lng": -74.510456
+  },
+  {
+    "state": "NJ",
+    "city": "North Plainfield",
+    "lat": 40.61978,
+    "lng": -74.425298
+  },
+  {
+    "state": "NJ",
+    "city": "North Plainfield",
+    "lat": 40.631992,
+    "lng": -74.406042
+  },
+  {
+    "state": "NJ",
+    "city": "North Plainfield",
+    "lat": 40.604838,
+    "lng": -74.445325
+  },
+  {
+    "state": "NJ",
+    "city": "Port Reading",
+    "lat": 40.570935,
+    "lng": -74.246643
+  },
+  {
+    "state": "NJ",
+    "city": "Rahway",
+    "lat": 40.608668,
+    "lng": -74.281881
+  },
+  {
+    "state": "NJ",
+    "city": "Clark",
+    "lat": 40.620256,
+    "lng": -74.310581
+  },
+  {
+    "state": "NJ",
+    "city": "Colonia",
+    "lat": 40.593743,
+    "lng": -74.316368
+  },
+  {
+    "state": "NJ",
+    "city": "Roseland",
+    "lat": 40.82034,
+    "lng": -74.304688
+  },
+  {
+    "state": "NJ",
+    "city": "Rutherford",
+    "lat": 40.829245,
+    "lng": -74.112146
+  },
+  {
+    "state": "NJ",
+    "city": "Lyndhurst",
+    "lat": 40.809433,
+    "lng": -74.12453
+  },
+  {
+    "state": "NJ",
+    "city": "Carlstadt",
+    "lat": 40.840298,
+    "lng": -74.092498
+  },
+  {
+    "state": "NJ",
+    "city": "East Rutherford",
+    "lat": 40.838527,
+    "lng": -74.104069
+  },
+  {
+    "state": "NJ",
+    "city": "Moonachie",
+    "lat": 40.839352,
+    "lng": -74.056646
+  },
+  {
+    "state": "NJ",
+    "city": "Wood Ridge",
+    "lat": 40.849348,
+    "lng": -74.087845
+  },
+  {
+    "state": "NJ",
+    "city": "Scotch Plains",
+    "lat": 40.642162,
+    "lng": -74.381663
+  },
+  {
+    "state": "NJ",
+    "city": "Sewaren",
+    "lat": 40.554181,
+    "lng": -74.260736
+  },
+  {
+    "state": "NJ",
+    "city": "Short Hills",
+    "lat": 40.73678,
+    "lng": -74.327085
+  },
+  {
+    "state": "NJ",
+    "city": "South Orange",
+    "lat": 40.746453,
+    "lng": -74.257532
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "lat": 40.583884,
+    "lng": -74.414695
+  },
+  {
+    "state": "NJ",
+    "city": "Springfield",
+    "lat": 40.701461,
+    "lng": -74.322705
+  },
+  {
+    "state": "NJ",
+    "city": "Towaco",
+    "lat": 40.927691,
+    "lng": -74.342807
+  },
+  {
+    "state": "NJ",
+    "city": "Union",
+    "lat": 40.695184,
+    "lng": -74.267653
+  },
+  {
+    "state": "NJ",
+    "city": "Weehawken",
+    "lat": 40.768153,
+    "lng": -74.030558
+  },
+  {
+    "state": "NJ",
+    "city": "Vauxhall",
+    "lat": 40.717927,
+    "lng": -74.282874
+  },
+  {
+    "state": "NJ",
+    "city": "Westfield",
+    "lat": 40.647851,
+    "lng": -74.345056
+  },
+  {
+    "state": "NJ",
+    "city": "Mountainside",
+    "lat": 40.678461,
+    "lng": -74.358785
+  },
+  {
+    "state": "NJ",
+    "city": "Guttenberg",
+    "lat": 40.788192,
+    "lng": -74.012859
+  },
+  {
+    "state": "NJ",
+    "city": "Secaucus",
+    "lat": 40.79101,
+    "lng": -74.063416
+  },
+  {
+    "state": "NJ",
+    "city": "Woodbridge",
+    "lat": 40.555973,
+    "lng": -74.284542
+  },
+  {
+    "state": "NJ",
+    "city": "Newark",
+    "lat": 40.723647,
+    "lng": -74.201538
+  },
+  {
+    "state": "NJ",
+    "city": "Belleville",
+    "lat": 40.79458,
+    "lng": -74.163119
+  },
+  {
+    "state": "NJ",
+    "city": "Nutley",
+    "lat": 40.818548,
+    "lng": -74.158934
+  },
+  {
+    "state": "NJ",
+    "city": "Irvington",
+    "lat": 40.7261,
+    "lng": -74.231271
+  },
+  {
+    "state": "NJ",
+    "city": "Elizabeth",
+    "lat": 40.65652,
+    "lng": -74.221544
+  },
+  {
+    "state": "NJ",
+    "city": "Roselle",
+    "lat": 40.652972,
+    "lng": -74.261044
+  },
+  {
+    "state": "NJ",
+    "city": "Roselle Park",
+    "lat": 40.665134,
+    "lng": -74.267003
+  },
+  {
+    "state": "NJ",
+    "city": "Hillside",
+    "lat": 40.696811,
+    "lng": -74.228065
+  },
+  {
+    "state": "NJ",
+    "city": "Jersey City",
+    "lat": 40.732354,
+    "lng": -74.043149
+  },
+  {
+    "state": "NJ",
+    "city": "Allendale",
+    "lat": 41.032654,
+    "lng": -74.134185
+  },
+  {
+    "state": "NJ",
+    "city": "Bloomingdale",
+    "lat": 41.012845,
+    "lng": -74.333756
+  },
+  {
+    "state": "NJ",
+    "city": "Kinnelon",
+    "lat": 40.992118,
+    "lng": -74.364065
+  },
+  {
+    "state": "NJ",
+    "city": "Elmwood Park",
+    "lat": 40.906896,
+    "lng": -74.120896
+  },
+  {
+    "state": "NJ",
+    "city": "Fair Lawn",
+    "lat": 40.934297,
+    "lng": -74.1166
+  },
+  {
+    "state": "NJ",
+    "city": "Franklin",
+    "lat": 41.116355,
+    "lng": -74.58649
+  },
+  {
+    "state": "NJ",
+    "city": "Franklin Lakes",
+    "lat": 41.008095,
+    "lng": -74.211347
+  },
+  {
+    "state": "NJ",
+    "city": "Glenwood",
+    "lat": 41.235618,
+    "lng": -74.488481
+  },
+  {
+    "state": "NJ",
+    "city": "Hamburg",
+    "lat": 41.146714,
+    "lng": -74.587379
+  },
+  {
+    "state": "NJ",
+    "city": "Haskell",
+    "lat": 41.030111,
+    "lng": -74.296542
+  },
+  {
+    "state": "NJ",
+    "city": "Hewitt",
+    "lat": 41.170867,
+    "lng": -74.368566
+  },
+  {
+    "state": "NJ",
+    "city": "Highland Lakes",
+    "lat": 41.182622,
+    "lng": -74.456442
+  },
+  {
+    "state": "NJ",
+    "city": "Ho Ho Kus",
+    "lat": 41.000412,
+    "lng": -74.102532
+  },
+  {
+    "state": "NJ",
+    "city": "West Paterson",
+    "lat": 40.885353,
+    "lng": -74.21145
+  },
+  {
+    "state": "NJ",
+    "city": "Mahwah",
+    "lat": 41.074473,
+    "lng": -74.155974
+  },
+  {
+    "state": "NJ",
+    "city": "Midland Park",
+    "lat": 40.995668,
+    "lng": -74.140904
+  },
+  {
+    "state": "NJ",
+    "city": "Newfoundland",
+    "lat": 41.064691,
+    "lng": -74.435857
+  },
+  {
+    "state": "NJ",
+    "city": "Oakland",
+    "lat": 41.029436,
+    "lng": -74.233754
+  },
+  {
+    "state": "NJ",
+    "city": "Milton",
+    "lat": 41.028401,
+    "lng": -74.508801
+  },
+  {
+    "state": "NJ",
+    "city": "Ogdensburg",
+    "lat": 41.076707,
+    "lng": -74.598188
+  },
+  {
+    "state": "NJ",
+    "city": "Pequannock",
+    "lat": 40.947308,
+    "lng": -74.29601
+  },
+  {
+    "state": "NJ",
+    "city": "Pompton Lakes",
+    "lat": 40.999284,
+    "lng": -74.287566
+  },
+  {
+    "state": "NJ",
+    "city": "Pompton Plains",
+    "lat": 40.965515,
+    "lng": -74.301602
+  },
+  {
+    "state": "NJ",
+    "city": "Ramsey",
+    "lat": 41.057743,
+    "lng": -74.144467
+  },
+  {
+    "state": "NJ",
+    "city": "Ridgewood",
+    "lat": 40.982023,
+    "lng": -74.113134
+  },
+  {
+    "state": "NJ",
+    "city": "Glen Rock",
+    "lat": 40.960183,
+    "lng": -74.125367
+  },
+  {
+    "state": "NJ",
+    "city": "Ringwood",
+    "lat": 41.092816,
+    "lng": -74.265872
+  },
+  {
+    "state": "NJ",
+    "city": "Riverdale",
+    "lat": 40.993109,
+    "lng": -74.308756
+  },
+  {
+    "state": "NJ",
+    "city": "Upper Saddle Riv",
+    "lat": 41.053083,
+    "lng": -74.096775
+  },
+  {
+    "state": "NJ",
+    "city": "Stockholm",
+    "lat": 41.099204,
+    "lng": -74.528256
+  },
+  {
+    "state": "NJ",
+    "city": "Sussex",
+    "lat": 41.229211,
+    "lng": -74.599156
+  },
+  {
+    "state": "NJ",
+    "city": "Vernon",
+    "lat": 41.184981,
+    "lng": -74.533196
+  },
+  {
+    "state": "NJ",
+    "city": "Waldwick",
+    "lat": 41.012968,
+    "lng": -74.124259
+  },
+  {
+    "state": "NJ",
+    "city": "Wanaque",
+    "lat": 41.054447,
+    "lng": -74.278968
+  },
+  {
+    "state": "NJ",
+    "city": "Wayne",
+    "lat": 40.947112,
+    "lng": -74.246565
+  },
+  {
+    "state": "NJ",
+    "city": "West Milford",
+    "lat": 41.091513,
+    "lng": -74.374996
+  },
+  {
+    "state": "NJ",
+    "city": "Wyckoff",
+    "lat": 40.997834,
+    "lng": -74.166009
+  },
+  {
+    "state": "NJ",
+    "city": "Hawthorne",
+    "lat": 40.956355,
+    "lng": -74.156897
+  },
+  {
+    "state": "NJ",
+    "city": "Haledon",
+    "lat": 40.945689,
+    "lng": -74.182599
+  },
+  {
+    "state": "NJ",
+    "city": "Totowa",
+    "lat": 40.904811,
+    "lng": -74.21675
+  },
+  {
+    "state": "NJ",
+    "city": "Paterson",
+    "lat": 40.930916,
+    "lng": -74.155457
+  },
+  {
+    "state": "NJ",
+    "city": "Hackensack",
+    "lat": 40.888191,
+    "lng": -74.050301
+  },
+  {
+    "state": "NJ",
+    "city": "Bogota",
+    "lat": 40.874441,
+    "lng": -74.028122
+  },
+  {
+    "state": "NJ",
+    "city": "Hasbrouck Height",
+    "lat": 40.862241,
+    "lng": -74.075971
+  },
+  {
+    "state": "NJ",
+    "city": "Leonia",
+    "lat": 40.862929,
+    "lng": -73.987873
+  },
+  {
+    "state": "NJ",
+    "city": "South Hackensack",
+    "lat": 40.863391,
+    "lng": -74.045601
+  },
+  {
+    "state": "NJ",
+    "city": "Maywood",
+    "lat": 40.902412,
+    "lng": -74.062916
+  },
+  {
+    "state": "NJ",
+    "city": "Teterboro",
+    "lat": 40.86175,
+    "lng": -74.054204
+  },
+  {
+    "state": "NJ",
+    "city": "Alpine",
+    "lat": 40.951097,
+    "lng": -73.930842
+  },
+  {
+    "state": "NJ",
+    "city": "Bergenfield",
+    "lat": 40.923837,
+    "lng": -73.998918
+  },
+  {
+    "state": "NJ",
+    "city": "Closter",
+    "lat": 40.972051,
+    "lng": -73.958985
+  },
+  {
+    "state": "NJ",
+    "city": "Cresskill",
+    "lat": 40.941847,
+    "lng": -73.965206
+  },
+  {
+    "state": "NJ",
+    "city": "Demarest",
+    "lat": 40.954775,
+    "lng": -73.960221
+  },
+  {
+    "state": "NJ",
+    "city": "Dumont",
+    "lat": 40.944692,
+    "lng": -73.992139
+  },
+  {
+    "state": "NJ",
+    "city": "Emerson",
+    "lat": 40.975459,
+    "lng": -74.028515
+  },
+  {
+    "state": "NJ",
+    "city": "Englewood",
+    "lat": 40.894251,
+    "lng": -73.977182
+  },
+  {
+    "state": "NJ",
+    "city": "Englewood Cliffs",
+    "lat": 40.882043,
+    "lng": -73.954449
+  },
+  {
+    "state": "NJ",
+    "city": "Harrington Park",
+    "lat": 40.991791,
+    "lng": -73.980017
+  },
+  {
+    "state": "NJ",
+    "city": "Haworth",
+    "lat": 40.960808,
+    "lng": -73.987376
+  },
+  {
+    "state": "NJ",
+    "city": "Hillsdale",
+    "lat": 41.006945,
+    "lng": -74.042625
+  },
+  {
+    "state": "NJ",
+    "city": "Little Ferry",
+    "lat": 40.849319,
+    "lng": -74.040502
+  },
+  {
+    "state": "NJ",
+    "city": "Lodi",
+    "lat": 40.876363,
+    "lng": -74.083827
+  },
+  {
+    "state": "NJ",
+    "city": "Montvale",
+    "lat": 41.049458,
+    "lng": -74.038362
+  },
+  {
+    "state": "NJ",
+    "city": "New Milford",
+    "lat": 40.933115,
+    "lng": -74.019517
+  },
+  {
+    "state": "NJ",
+    "city": "Rockleigh",
+    "lat": 41.011196,
+    "lng": -73.952375
+  },
+  {
+    "state": "NJ",
+    "city": "Norwood",
+    "lat": 40.995231,
+    "lng": -73.95817
+  },
+  {
+    "state": "NJ",
+    "city": "Oradell",
+    "lat": 40.953456,
+    "lng": -74.033525
+  },
+  {
+    "state": "NJ",
+    "city": "Palisades Park",
+    "lat": 40.846238,
+    "lng": -73.995436
+  },
+  {
+    "state": "NJ",
+    "city": "Paramus",
+    "lat": 40.947683,
+    "lng": -74.06724
+  },
+  {
+    "state": "NJ",
+    "city": "Park Ridge",
+    "lat": 41.034349,
+    "lng": -74.039574
+  },
+  {
+    "state": "NJ",
+    "city": "Ridgefield",
+    "lat": 40.832568,
+    "lng": -74.001531
+  },
+  {
+    "state": "NJ",
+    "city": "Ridgefield Park",
+    "lat": 40.856218,
+    "lng": -74.022962
+  },
+  {
+    "state": "NJ",
+    "city": "River Edge",
+    "lat": 40.926476,
+    "lng": -74.03924
+  },
+  {
+    "state": "NJ",
+    "city": "Saddle Brook",
+    "lat": 40.904928,
+    "lng": -74.091296
+  },
+  {
+    "state": "NJ",
+    "city": "Teaneck",
+    "lat": 40.89148,
+    "lng": -74.011928
+  },
+  {
+    "state": "NJ",
+    "city": "Tenafly",
+    "lat": 40.921596,
+    "lng": -73.965906
+  },
+  {
+    "state": "NJ",
+    "city": "Old Tappan",
+    "lat": 41.001696,
+    "lng": -74.032586
+  },
+  {
+    "state": "NJ",
+    "city": "Suburban",
+    "lat": 40.354083,
+    "lng": -74.080003
+  },
+  {
+    "state": "NJ",
+    "city": "Shrewsbury",
+    "lat": 40.328198,
+    "lng": -74.058892
+  },
+  {
+    "state": "NJ",
+    "city": "Fort Monmouth",
+    "lat": 40.317667,
+    "lng": -74.039001
+  },
+  {
+    "state": "NJ",
+    "city": "Fair Haven",
+    "lat": 40.359873,
+    "lng": -74.038891
+  },
+  {
+    "state": "NJ",
+    "city": "Allenhurst",
+    "lat": 40.236675,
+    "lng": -74.006706
+  },
+  {
+    "state": "NJ",
+    "city": "Ocean",
+    "lat": 40.235571,
+    "lng": -74.029486
+  },
+  {
+    "state": "NJ",
+    "city": "Atlantic Highlan",
+    "lat": 40.40772,
+    "lng": -74.032411
+  },
+  {
+    "state": "NJ",
+    "city": "Avon By The Sea",
+    "lat": 40.191796,
+    "lng": -74.016737
+  },
+  {
+    "state": "NJ",
+    "city": "Belford",
+    "lat": 40.417281,
+    "lng": -74.088887
+  },
+  {
+    "state": "NJ",
+    "city": "Wall",
+    "lat": 40.17434,
+    "lng": -74.047247
+  },
+  {
+    "state": "NJ",
+    "city": "Bradley Beach",
+    "lat": 40.202308,
+    "lng": -74.013166
+  },
+  {
+    "state": "NJ",
+    "city": "Cliffwood",
+    "lat": 40.435281,
+    "lng": -74.235759
+  },
+  {
+    "state": "NJ",
+    "city": "Colts Neck",
+    "lat": 40.301225,
+    "lng": -74.177988
+  },
+  {
+    "state": "NJ",
+    "city": "Deal",
+    "lat": 40.250568,
+    "lng": -74.001998
+  },
+  {
+    "state": "NJ",
+    "city": "Eatontown",
+    "lat": 40.302815,
+    "lng": -74.06978
+  },
+  {
+    "state": "NJ",
+    "city": "Manalapan",
+    "lat": 40.306274,
+    "lng": -74.330613
+  },
+  {
+    "state": "NJ",
+    "city": "Farmingdale",
+    "lat": 40.204312,
+    "lng": -74.177864
+  },
+  {
+    "state": "NJ",
+    "city": "Freehold",
+    "lat": 40.245776,
+    "lng": -74.276822
+  },
+  {
+    "state": "NJ",
+    "city": "Hazlet",
+    "lat": 40.422554,
+    "lng": -74.179896
+  },
+  {
+    "state": "NJ",
+    "city": "Howell",
+    "lat": 40.148096,
+    "lng": -74.213683
+  },
+  {
+    "state": "NJ",
+    "city": "Fort Hancock",
+    "lat": 40.402377,
+    "lng": -73.990912
+  },
+  {
+    "state": "NJ",
+    "city": "Holmdel",
+    "lat": 40.385853,
+    "lng": -74.173971
+  },
+  {
+    "state": "NJ",
+    "city": "Keansburg",
+    "lat": 40.441363,
+    "lng": -74.130633
+  },
+  {
+    "state": "NJ",
+    "city": "Keyport",
+    "lat": 40.439862,
+    "lng": -74.199563
+  },
+  {
+    "state": "NJ",
+    "city": "Leonardo",
+    "lat": 40.417704,
+    "lng": -74.062265
+  },
+  {
+    "state": "NJ",
+    "city": "Lincroft",
+    "lat": 40.33689,
+    "lng": -74.120469
+  },
+  {
+    "state": "NJ",
+    "city": "Little Silver",
+    "lat": 40.335393,
+    "lng": -74.041319
+  },
+  {
+    "state": "NJ",
+    "city": "Long Branch",
+    "lat": 40.299204,
+    "lng": -73.991176
+  },
+  {
+    "state": "NJ",
+    "city": "Marlboro",
+    "lat": 40.31825,
+    "lng": -74.263871
+  },
+  {
+    "state": "NJ",
+    "city": "Matawan",
+    "lat": 40.410876,
+    "lng": -74.237955
+  },
+  {
+    "state": "NJ",
+    "city": "New Monmouth",
+    "lat": 40.396018,
+    "lng": -74.113908
+  },
+  {
+    "state": "NJ",
+    "city": "Monmouth Beach",
+    "lat": 40.333032,
+    "lng": -73.98089
+  },
+  {
+    "state": "NJ",
+    "city": "Morganville",
+    "lat": 40.352917,
+    "lng": -74.277863
+  },
+  {
+    "state": "NJ",
+    "city": "Neptune City",
+    "lat": 40.211153,
+    "lng": -74.054045
+  },
+  {
+    "state": "NJ",
+    "city": "Oakhurst",
+    "lat": 40.26479,
+    "lng": -74.018413
+  },
+  {
+    "state": "NJ",
+    "city": "Ocean Grove",
+    "lat": 40.211606,
+    "lng": -74.009306
+  },
+  {
+    "state": "NJ",
+    "city": "Oceanport",
+    "lat": 40.31573,
+    "lng": -74.016372
+  },
+  {
+    "state": "NJ",
+    "city": "Port Monmouth",
+    "lat": 40.428886,
+    "lng": -74.108259
+  },
+  {
+    "state": "NJ",
+    "city": "Sea Bright",
+    "lat": 40.371829,
+    "lng": -74.000618
+  },
+  {
+    "state": "NJ",
+    "city": "Spring Lake",
+    "lat": 40.154198,
+    "lng": -74.037885
+  },
+  {
+    "state": "NJ",
+    "city": "West Long Branch",
+    "lat": 40.287811,
+    "lng": -74.016221
+  },
+  {
+    "state": "NJ",
+    "city": "Mine Hill",
+    "lat": 40.887218,
+    "lng": -74.559702
+  },
+  {
+    "state": "NJ",
+    "city": "Andover",
+    "lat": 40.961386,
+    "lng": -74.752418
+  },
+  {
+    "state": "NJ",
+    "city": "Augusta",
+    "lat": 41.145086,
+    "lng": -74.684753
+  },
+  {
+    "state": "NJ",
+    "city": "Belvidere",
+    "lat": 40.830819,
+    "lng": -75.050261
+  },
+  {
+    "state": "NJ",
+    "city": "Blairstown",
+    "lat": 40.967386,
+    "lng": -74.965097
+  },
+  {
+    "state": "NJ",
+    "city": "Branchville",
+    "lat": 41.170512,
+    "lng": -74.750025
+  },
+  {
+    "state": "NJ",
+    "city": "Montague",
+    "lat": 41.302259,
+    "lng": -74.753956
+  },
+  {
+    "state": "NJ",
+    "city": "Budd Lake",
+    "lat": 40.873108,
+    "lng": -74.742552
+  },
+  {
+    "state": "NJ",
+    "city": "Califon",
+    "lat": 40.716209,
+    "lng": -74.815218
+  },
+  {
+    "state": "NJ",
+    "city": "Columbia",
+    "lat": 40.938805,
+    "lng": -75.054983
+  },
+  {
+    "state": "NJ",
+    "city": "Denville",
+    "lat": 40.889735,
+    "lng": -74.484379
+  },
+  {
+    "state": "NJ",
+    "city": "Flanders",
+    "lat": 40.845316,
+    "lng": -74.70188
+  },
+  {
+    "state": "NJ",
+    "city": "Great Meadows",
+    "lat": 40.85196,
+    "lng": -74.941806
+  },
+  {
+    "state": "NJ",
+    "city": "Hackettstown",
+    "lat": 40.852891,
+    "lng": -74.834315
+  },
+  {
+    "state": "NJ",
+    "city": "Hopatcong",
+    "lat": 40.938983,
+    "lng": -74.66163
+  },
+  {
+    "state": "NJ",
+    "city": "Kenvil",
+    "lat": 40.881901,
+    "lng": -74.620984
+  },
+  {
+    "state": "NJ",
+    "city": "Lafayette",
+    "lat": 41.076099,
+    "lng": -74.691223
+  },
+  {
+    "state": "NJ",
+    "city": "Lake Hopatcong",
+    "lat": 40.965882,
+    "lng": -74.614438
+  },
+  {
+    "state": "NJ",
+    "city": "Landing",
+    "lat": 40.908684,
+    "lng": -74.655425
+  },
+  {
+    "state": "NJ",
+    "city": "Layton",
+    "lat": 41.205913,
+    "lng": -74.817219
+  },
+  {
+    "state": "NJ",
+    "city": "Ledgewood",
+    "lat": 40.878028,
+    "lng": -74.655405
+  },
+  {
+    "state": "NJ",
+    "city": "Long Valley",
+    "lat": 40.787817,
+    "lng": -74.78698
+  },
+  {
+    "state": "NJ",
+    "city": "Mount Arlington",
+    "lat": 40.928267,
+    "lng": -74.636331
+  },
+  {
+    "state": "NJ",
+    "city": "Netcong",
+    "lat": 40.898497,
+    "lng": -74.698454
+  },
+  {
+    "state": "NJ",
+    "city": "Fredon Township",
+    "lat": 41.058275,
+    "lng": -74.780191
+  },
+  {
+    "state": "NJ",
+    "city": "Oxford",
+    "lat": 40.810537,
+    "lng": -75.00194
+  },
+  {
+    "state": "NJ",
+    "city": "Port Murray",
+    "lat": 40.790615,
+    "lng": -74.91675
+  },
+  {
+    "state": "NJ",
+    "city": "Rockaway",
+    "lat": 40.922916,
+    "lng": -74.50937
+  },
+  {
+    "state": "NJ",
+    "city": "Randolph",
+    "lat": 40.845557,
+    "lng": -74.572519
+  },
+  {
+    "state": "NJ",
+    "city": "Sparta",
+    "lat": 41.027697,
+    "lng": -74.640701
+  },
+  {
+    "state": "NJ",
+    "city": "Stanhope",
+    "lat": 40.921743,
+    "lng": -74.70044
+  },
+  {
+    "state": "NJ",
+    "city": "Succasunna",
+    "lat": 40.85385,
+    "lng": -74.653601
+  },
+  {
+    "state": "NJ",
+    "city": "Wallpack Center",
+    "lat": 41.134332,
+    "lng": -74.917595
+  },
+  {
+    "state": "NJ",
+    "city": "Washington",
+    "lat": 40.75818,
+    "lng": -74.991361
+  },
+  {
+    "state": "NJ",
+    "city": "Wharton",
+    "lat": 40.913883,
+    "lng": -74.58634
+  },
+  {
+    "state": "NJ",
+    "city": "Summit",
+    "lat": 40.71494,
+    "lng": -74.364159
+  },
+  {
+    "state": "NJ",
+    "city": "Basking Ridge",
+    "lat": 40.678937,
+    "lng": -74.560463
+  },
+  {
+    "state": "NJ",
+    "city": "Bedminster",
+    "lat": 40.657109,
+    "lng": -74.643236
+  },
+  {
+    "state": "NJ",
+    "city": "Berkeley Heights",
+    "lat": 40.67522,
+    "lng": -74.434599
+  },
+  {
+    "state": "NJ",
+    "city": "Bernardsville",
+    "lat": 40.72251,
+    "lng": -74.577812
+  },
+  {
+    "state": "NJ",
+    "city": "Cedar Knolls",
+    "lat": 40.822335,
+    "lng": -74.456861
+  },
+  {
+    "state": "NJ",
+    "city": "Chatham",
+    "lat": 40.730526,
+    "lng": -74.401701
+  },
+  {
+    "state": "NJ",
+    "city": "Chester",
+    "lat": 40.789193,
+    "lng": -74.677649
+  },
+  {
+    "state": "NJ",
+    "city": "Far Hills",
+    "lat": 40.704035,
+    "lng": -74.653959
+  },
+  {
+    "state": "NJ",
+    "city": "Florham Park",
+    "lat": 40.775701,
+    "lng": -74.392819
+  },
+  {
+    "state": "NJ",
+    "city": "Gillette",
+    "lat": 40.687678,
+    "lng": -74.468134
+  },
+  {
+    "state": "NJ",
+    "city": "Gladstone",
+    "lat": 40.721948,
+    "lng": -74.670656
+  },
+  {
+    "state": "NJ",
+    "city": "Green Village",
+    "lat": 40.741618,
+    "lng": -74.451685
+  },
+  {
+    "state": "NJ",
+    "city": "East Hanover",
+    "lat": 40.819165,
+    "lng": -74.36357
+  },
+  {
+    "state": "NJ",
+    "city": "Madison",
+    "lat": 40.759939,
+    "lng": -74.417868
+  },
+  {
+    "state": "NJ",
+    "city": "Mendham",
+    "lat": 40.778919,
+    "lng": -74.600035
+  },
+  {
+    "state": "NJ",
+    "city": "Millington",
+    "lat": 40.672716,
+    "lng": -74.518292
+  },
+  {
+    "state": "NJ",
+    "city": "Greystone Park",
+    "lat": 40.843982,
+    "lng": -74.479645
+  },
+  {
+    "state": "NJ",
+    "city": "Morristown",
+    "lat": 40.795236,
+    "lng": -74.487288
+  },
+  {
+    "state": "NJ",
+    "city": "New Providence",
+    "lat": 40.700403,
+    "lng": -74.402291
+  },
+  {
+    "state": "NJ",
+    "city": "New Vernon",
+    "lat": 40.734685,
+    "lng": -74.484471
+  },
+  {
+    "state": "NJ",
+    "city": "Stirling",
+    "lat": 40.677366,
+    "lng": -74.49683
+  },
+  {
+    "state": "NJ",
+    "city": "Whippany",
+    "lat": 40.821862,
+    "lng": -74.419971
+  },
+  {
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "lat": 39.930808,
+    "lng": -75.017538
+  },
+  {
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "lat": 39.880453,
+    "lng": -74.970568
+  },
+  {
+    "state": "NJ",
+    "city": "Winslow",
+    "lat": 39.770909,
+    "lng": -74.879368
+  },
+  {
+    "state": "NJ",
+    "city": "Barnegat",
+    "lat": 39.755248,
+    "lng": -74.246988
+  },
+  {
+    "state": "NJ",
+    "city": "Barrington",
+    "lat": 39.865062,
+    "lng": -75.056361
+  },
+  {
+    "state": "NJ",
+    "city": "Harvey Cedars",
+    "lat": 39.636347,
+    "lng": -74.189033
+  },
+  {
+    "state": "NJ",
+    "city": "Berlin",
+    "lat": 39.778839,
+    "lng": -74.930808
+  },
+  {
+    "state": "NJ",
+    "city": "Beverly",
+    "lat": 40.056452,
+    "lng": -74.911363
+  },
+  {
+    "state": "NJ",
+    "city": "Washington",
+    "lat": 39.774104,
+    "lng": -75.058747
+  },
+  {
+    "state": "NJ",
+    "city": "Bridgeport",
+    "lat": 39.801616,
+    "lng": -75.34782
+  },
+  {
+    "state": "NJ",
+    "city": "Browns Mills",
+    "lat": 39.95974,
+    "lng": -74.565549
+  },
+  {
+    "state": "NJ",
+    "city": "Burlington",
+    "lat": 40.068015,
+    "lng": -74.845353
+  },
+  {
+    "state": "NJ",
+    "city": "Chatsworth",
+    "lat": 39.801945,
+    "lng": -74.525619
+  },
+  {
+    "state": "NJ",
+    "city": "Clarksboro",
+    "lat": 39.799228,
+    "lng": -75.223655
+  },
+  {
+    "state": "NJ",
+    "city": "Laurel Springs",
+    "lat": 39.80703,
+    "lng": -75.003997
+  },
+  {
+    "state": "NJ",
+    "city": "Columbus",
+    "lat": 40.064238,
+    "lng": -74.68988
+  },
+  {
+    "state": "NJ",
+    "city": "Gibbsboro",
+    "lat": 39.836532,
+    "lng": -74.970996
+  },
+  {
+    "state": "NJ",
+    "city": "Gibbstown",
+    "lat": 39.82314,
+    "lng": -75.275128
+  },
+  {
+    "state": "NJ",
+    "city": "Glassboro",
+    "lat": 39.706823,
+    "lng": -75.117247
+  },
+  {
+    "state": "NJ",
+    "city": "Glendora",
+    "lat": 39.840376,
+    "lng": -75.069744
+  },
+  {
+    "state": "NJ",
+    "city": "Gloucester City",
+    "lat": 39.891105,
+    "lng": -75.116962
+  },
+  {
+    "state": "NJ",
+    "city": "Bellmawr",
+    "lat": 39.868878,
+    "lng": -75.094368
+  },
+  {
+    "state": "NJ",
+    "city": "Haddonfield",
+    "lat": 39.895449,
+    "lng": -75.041726
+  },
+  {
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "lat": 39.9074,
+    "lng": -75.000762
+  },
+  {
+    "state": "NJ",
+    "city": "Haddon Heights",
+    "lat": 39.878832,
+    "lng": -75.06639
+  },
+  {
+    "state": "NJ",
+    "city": "Batsto",
+    "lat": 39.638878,
+    "lng": -74.790735
+  },
+  {
+    "state": "NJ",
+    "city": "Jobstown",
+    "lat": 40.038698,
+    "lng": -74.687305
+  },
+  {
+    "state": "NJ",
+    "city": "Voorhees",
+    "lat": 39.850422,
+    "lng": -74.964614
+  },
+  {
+    "state": "NJ",
+    "city": "Lawnside",
+    "lat": 39.867601,
+    "lng": -75.031681
+  },
+  {
+    "state": "NJ",
+    "city": "Willingboro",
+    "lat": 40.028959,
+    "lng": -74.883482
+  },
+  {
+    "state": "NJ",
+    "city": "Lumberton",
+    "lat": 39.96512,
+    "lng": -74.806736
+  },
+  {
+    "state": "NJ",
+    "city": "Magnolia",
+    "lat": 39.853807,
+    "lng": -75.039254
+  },
+  {
+    "state": "NJ",
+    "city": "Manahawkin",
+    "lat": 39.705017,
+    "lng": -74.260391
+  },
+  {
+    "state": "NJ",
+    "city": "Mantua",
+    "lat": 39.786983,
+    "lng": -75.178531
+  },
+  {
+    "state": "NJ",
+    "city": "Maple Shade",
+    "lat": 39.951085,
+    "lng": -74.994644
+  },
+  {
+    "state": "NJ",
+    "city": "Marlton",
+    "lat": 39.884517,
+    "lng": -74.90674
+  },
+  {
+    "state": "NJ",
+    "city": "Mount Laurel",
+    "lat": 39.947808,
+    "lng": -74.903588
+  },
+  {
+    "state": "NJ",
+    "city": "Medford Lakes",
+    "lat": 39.868099,
+    "lng": -74.823384
+  },
+  {
+    "state": "NJ",
+    "city": "Mickleton",
+    "lat": 39.785653,
+    "lng": -75.249777
+  },
+  {
+    "state": "NJ",
+    "city": "Moorestown",
+    "lat": 39.9683,
+    "lng": -74.953323
+  },
+  {
+    "state": "NJ",
+    "city": "Mount Ephraim",
+    "lat": 39.882749,
+    "lng": -75.09289
+  },
+  {
+    "state": "NJ",
+    "city": "Eastampton Twp",
+    "lat": 39.993028,
+    "lng": -74.795522
+  },
+  {
+    "state": "NJ",
+    "city": "Mount Royal",
+    "lat": 39.809741,
+    "lng": -75.208153
+  },
+  {
+    "state": "NJ",
+    "city": "Mullica Hill",
+    "lat": 39.725228,
+    "lng": -75.20654
+  },
+  {
+    "state": "NJ",
+    "city": "National Park",
+    "lat": 39.866412,
+    "lng": -75.179397
+  },
+  {
+    "state": "NJ",
+    "city": "Palmyra",
+    "lat": 40.003654,
+    "lng": -75.025685
+  },
+  {
+    "state": "NJ",
+    "city": "Paulsboro",
+    "lat": 39.831157,
+    "lng": -75.224233
+  },
+  {
+    "state": "NJ",
+    "city": "Pedricktown",
+    "lat": 39.743451,
+    "lng": -75.412046
+  },
+  {
+    "state": "NJ",
+    "city": "Pemberton",
+    "lat": 39.971206,
+    "lng": -74.667629
+  },
+  {
+    "state": "NJ",
+    "city": "Carneys Point",
+    "lat": 39.717938,
+    "lng": -75.465623
+  },
+  {
+    "state": "NJ",
+    "city": "Pennsville",
+    "lat": 39.649107,
+    "lng": -75.51553
+  },
+  {
+    "state": "NJ",
+    "city": "Pitman",
+    "lat": 39.731162,
+    "lng": -75.129679
+  },
+  {
+    "state": "NJ",
+    "city": "Delanco",
+    "lat": 40.024684,
+    "lng": -74.956128
+  },
+  {
+    "state": "NJ",
+    "city": "Cinnaminson",
+    "lat": 39.996393,
+    "lng": -74.995141
+  },
+  {
+    "state": "NJ",
+    "city": "Runnemede",
+    "lat": 39.850825,
+    "lng": -75.074224
+  },
+  {
+    "state": "NJ",
+    "city": "Salem",
+    "lat": 39.559124,
+    "lng": -75.452096
+  },
+  {
+    "state": "NJ",
+    "city": "Sewell",
+    "lat": 39.747345,
+    "lng": -75.089852
+  },
+  {
+    "state": "NJ",
+    "city": "Sicklerville",
+    "lat": 39.735385,
+    "lng": -74.986385
+  },
+  {
+    "state": "NJ",
+    "city": "Somerdale",
+    "lat": 39.839988,
+    "lng": -75.030913
+  },
+  {
+    "state": "NJ",
+    "city": "Stratford",
+    "lat": 39.828798,
+    "lng": -75.014707
+  },
+  {
+    "state": "NJ",
+    "city": "Swedesboro",
+    "lat": 39.752853,
+    "lng": -75.336202
+  },
+  {
+    "state": "NJ",
+    "city": "Thorofare",
+    "lat": 39.859178,
+    "lng": -75.176698
+  },
+  {
+    "state": "NJ",
+    "city": "Tuckerton",
+    "lat": 39.588149,
+    "lng": -74.364586
+  },
+  {
+    "state": "NJ",
+    "city": "Southampton",
+    "lat": 39.867631,
+    "lng": -74.711025
+  },
+  {
+    "state": "NJ",
+    "city": "Waterford Works",
+    "lat": 39.721512,
+    "lng": -74.860933
+  },
+  {
+    "state": "NJ",
+    "city": "Wenonah",
+    "lat": 39.799283,
+    "lng": -75.153644
+  },
+  {
+    "state": "NJ",
+    "city": "West Berlin",
+    "lat": 39.81959,
+    "lng": -74.941678
+  },
+  {
+    "state": "NJ",
+    "city": "West Creek",
+    "lat": 39.662665,
+    "lng": -74.288508
+  },
+  {
+    "state": "NJ",
+    "city": "Westville",
+    "lat": 39.860494,
+    "lng": -75.132278
+  },
+  {
+    "state": "NJ",
+    "city": "Williamstown",
+    "lat": 39.665006,
+    "lng": -74.971027
+  },
+  {
+    "state": "NJ",
+    "city": "Deptford",
+    "lat": 39.829477,
+    "lng": -75.137966
+  },
+  {
+    "state": "NJ",
+    "city": "Woodbury Heights",
+    "lat": 39.814162,
+    "lng": -75.152972
+  },
+  {
+    "state": "NJ",
+    "city": "Woodstown",
+    "lat": 39.645663,
+    "lng": -75.324806
+  },
+  {
+    "state": "NJ",
+    "city": "Camden",
+    "lat": 39.951244,
+    "lng": -75.118644
+  },
+  {
+    "state": "NJ",
+    "city": "Camden",
+    "lat": 39.935099,
+    "lng": -75.111708
+  },
+  {
+    "state": "NJ",
+    "city": "Camden",
+    "lat": 39.918575,
+    "lng": -75.107835
+  },
+  {
+    "state": "NJ",
+    "city": "Camden",
+    "lat": 39.948417,
+    "lng": -75.086382
+  },
+  {
+    "state": "NJ",
+    "city": "Audubon",
+    "lat": 39.891035,
+    "lng": -75.072425
+  },
+  {
+    "state": "NJ",
+    "city": "Oaklyn",
+    "lat": 39.90799,
+    "lng": -75.08489
+  },
+  {
+    "state": "NJ",
+    "city": "Collingswood",
+    "lat": 39.915682,
+    "lng": -75.063383
+  },
+  {
+    "state": "NJ",
+    "city": "Merchantville",
+    "lat": 39.95193,
+    "lng": -75.048204
+  },
+  {
+    "state": "NJ",
+    "city": "Delair",
+    "lat": 39.962742,
+    "lng": -75.063446
+  },
+  {
+    "state": "NJ",
+    "city": "Smithville",
+    "lat": 39.462368,
+    "lng": -74.503106
+  },
+  {
+    "state": "NJ",
+    "city": "Avalon",
+    "lat": 39.095095,
+    "lng": -74.726177
+  },
+  {
+    "state": "NJ",
+    "city": "Brigantine",
+    "lat": 39.403709,
+    "lng": -74.377644
+  },
+  {
+    "state": "NJ",
+    "city": "North Cape May",
+    "lat": 38.969208,
+    "lng": -74.92624
+  },
+  {
+    "state": "NJ",
+    "city": "Cape May Court H",
+    "lat": 39.101434,
+    "lng": -74.826846
+  },
+  {
+    "state": "NJ",
+    "city": "Egg Harbor City",
+    "lat": 39.533123,
+    "lng": -74.617709
+  },
+  {
+    "state": "NJ",
+    "city": "Linwood",
+    "lat": 39.346883,
+    "lng": -74.580744
+  },
+  {
+    "state": "NJ",
+    "city": "Marmora",
+    "lat": 39.258562,
+    "lng": -74.659297
+  },
+  {
+    "state": "NJ",
+    "city": "Northfield",
+    "lat": 39.370256,
+    "lng": -74.555237
+  },
+  {
+    "state": "NJ",
+    "city": "Ocean City",
+    "lat": 39.270894,
+    "lng": -74.587514
+  },
+  {
+    "state": "NJ",
+    "city": "Ocean View",
+    "lat": 39.215425,
+    "lng": -74.707548
+  },
+  {
+    "state": "NJ",
+    "city": "Pleasantville",
+    "lat": 39.401518,
+    "lng": -74.552365
+  },
+  {
+    "state": "NJ",
+    "city": "Port Republic",
+    "lat": 39.527196,
+    "lng": -74.490263
+  },
+  {
+    "state": "NJ",
+    "city": "Rio Grande",
+    "lat": 39.019583,
+    "lng": -74.875642
+  },
+  {
+    "state": "NJ",
+    "city": "Townsends Inlet",
+    "lat": 39.144929,
+    "lng": -74.701432
+  },
+  {
+    "state": "NJ",
+    "city": "Somers Point",
+    "lat": 39.322308,
+    "lng": -74.600796
+  },
+  {
+    "state": "NJ",
+    "city": "Stone Harbor",
+    "lat": 39.053338,
+    "lng": -74.762049
+  },
+  {
+    "state": "NJ",
+    "city": "Strathmere",
+    "lat": 39.199246,
+    "lng": -74.655446
+  },
+  {
+    "state": "NJ",
+    "city": "Villas",
+    "lat": 39.021943,
+    "lng": -74.935396
+  },
+  {
+    "state": "NJ",
+    "city": "North Wildwood",
+    "lat": 38.989901,
+    "lng": -74.819096
+  },
+  {
+    "state": "NJ",
+    "city": "Corbin City",
+    "lat": 39.248915,
+    "lng": -74.802628
+  },
+  {
+    "state": "NJ",
+    "city": "Seabrook",
+    "lat": 39.445294,
+    "lng": -75.226728
+  },
+  {
+    "state": "NJ",
+    "city": "Buena",
+    "lat": 39.536988,
+    "lng": -74.889495
+  },
+  {
+    "state": "NJ",
+    "city": "Cedarville",
+    "lat": 39.337028,
+    "lng": -75.199362
+  },
+  {
+    "state": "NJ",
+    "city": "Clayton",
+    "lat": 39.658969,
+    "lng": -75.094188
+  },
+  {
+    "state": "NJ",
+    "city": "Delmont",
+    "lat": 39.202258,
+    "lng": -74.970505
+  },
+  {
+    "state": "NJ",
+    "city": "Dorothy",
+    "lat": 39.40313,
+    "lng": -74.831577
+  },
+  {
+    "state": "NJ",
+    "city": "Elmer",
+    "lat": 39.569146,
+    "lng": -75.163023
+  },
+  {
+    "state": "NJ",
+    "city": "Estell Manor",
+    "lat": 39.37825,
+    "lng": -74.816512
+  },
+  {
+    "state": "NJ",
+    "city": "Franklinville",
+    "lat": 39.615557,
+    "lng": -75.04088
+  },
+  {
+    "state": "NJ",
+    "city": "Heislerville",
+    "lat": 39.245013,
+    "lng": -74.993942
+  },
+  {
+    "state": "NJ",
+    "city": "Landisville",
+    "lat": 39.523942,
+    "lng": -74.937688
+  },
+  {
+    "state": "NJ",
+    "city": "Leesburg",
+    "lat": 39.238724,
+    "lng": -75.001211
+  },
+  {
+    "state": "NJ",
+    "city": "Malaga",
+    "lat": 39.575495,
+    "lng": -75.058155
+  },
+  {
+    "state": "NJ",
+    "city": "Mays Landing",
+    "lat": 39.432011,
+    "lng": -74.69619
+  },
+  {
+    "state": "NJ",
+    "city": "Millville",
+    "lat": 39.367313,
+    "lng": -75.029311
+  },
+  {
+    "state": "NJ",
+    "city": "Milmay",
+    "lat": 39.445078,
+    "lng": -74.866671
+  },
+  {
+    "state": "NJ",
+    "city": "Minotola",
+    "lat": 39.515512,
+    "lng": -74.946685
+  },
+  {
+    "state": "NJ",
+    "city": "Monroeville",
+    "lat": 39.644224,
+    "lng": -75.156848
+  },
+  {
+    "state": "NJ",
+    "city": "Newfield",
+    "lat": 39.555257,
+    "lng": -75.027558
+  },
+  {
+    "state": "NJ",
+    "city": "Newport",
+    "lat": 39.283205,
+    "lng": -75.171647
+  },
+  {
+    "state": "NJ",
+    "city": "Newtonville",
+    "lat": 39.564477,
+    "lng": -74.859049
+  },
+  {
+    "state": "NJ",
+    "city": "Port Norris",
+    "lat": 39.256263,
+    "lng": -75.050608
+  },
+  {
+    "state": "NJ",
+    "city": "Richland",
+    "lat": 39.485048,
+    "lng": -74.877615
+  },
+  {
+    "state": "NJ",
+    "city": "Vineland",
+    "lat": 39.48177,
+    "lng": -75.009087
+  },
+  {
+    "state": "NJ",
+    "city": "Atlantic City",
+    "lat": 39.366411,
+    "lng": -74.431727
+  },
+  {
+    "state": "NJ",
+    "city": "Margate City",
+    "lat": 39.328621,
+    "lng": -74.509038
+  },
+  {
+    "state": "NJ",
+    "city": "Longport",
+    "lat": 39.309712,
+    "lng": -74.542143
+  },
+  {
+    "state": "NJ",
+    "city": "Ventnor City",
+    "lat": 39.345992,
+    "lng": -74.472343
+  },
+  {
+    "state": "NJ",
+    "city": "Allentown",
+    "lat": 40.158922,
+    "lng": -74.59093
+  },
+  {
+    "state": "NJ",
+    "city": "Belle Mead",
+    "lat": 40.467732,
+    "lng": -74.628993
+  },
+  {
+    "state": "NJ",
+    "city": "Bordentown",
+    "lat": 40.143141,
+    "lng": -74.703249
+  },
+  {
+    "state": "NJ",
+    "city": "Clarksburg",
+    "lat": 40.199751,
+    "lng": -74.434387
+  },
+  {
+    "state": "NJ",
+    "city": "Cookstown",
+    "lat": 40.048109,
+    "lng": -74.559524
+  },
+  {
+    "state": "NJ",
+    "city": "Cranbury",
+    "lat": 40.303868,
+    "lng": -74.506531
+  },
+  {
+    "state": "NJ",
+    "city": "Creamridge",
+    "lat": 40.127907,
+    "lng": -74.499425
+  },
+  {
+    "state": "NJ",
+    "city": "Crosswicks",
+    "lat": 40.158353,
+    "lng": -74.666838
+  },
+  {
+    "state": "NJ",
+    "city": "Florence",
+    "lat": 40.118025,
+    "lng": -74.805515
+  },
+  {
+    "state": "NJ",
+    "city": "Hightstown",
+    "lat": 40.266885,
+    "lng": -74.524993
+  },
+  {
+    "state": "NJ",
+    "city": "Hopewell",
+    "lat": 40.390224,
+    "lng": -74.770963
+  },
+  {
+    "state": "NJ",
+    "city": "Imlaystown",
+    "lat": 40.166215,
+    "lng": -74.510939
+  },
+  {
+    "state": "NJ",
+    "city": "Jackson",
+    "lat": 40.120964,
+    "lng": -74.301709
+  },
+  {
+    "state": "NJ",
+    "city": "Kingston",
+    "lat": 40.380465,
+    "lng": -74.616071
+  },
+  {
+    "state": "NJ",
+    "city": "Lambertville",
+    "lat": 40.373122,
+    "lng": -74.926605
+  },
+  {
+    "state": "NJ",
+    "city": "New Egypt",
+    "lat": 40.071343,
+    "lng": -74.506721
+  },
+  {
+    "state": "NJ",
+    "city": "Pennington",
+    "lat": 40.333858,
+    "lng": -74.794352
+  },
+  {
+    "state": "NJ",
+    "city": "Perrineville",
+    "lat": 40.214971,
+    "lng": -74.440381
+  },
+  {
+    "state": "NJ",
+    "city": "Plainsboro",
+    "lat": 40.332432,
+    "lng": -74.568836
+  },
+  {
+    "state": "NJ",
+    "city": "Princeton",
+    "lat": 40.366633,
+    "lng": -74.640832
+  },
+  {
+    "state": "NJ",
+    "city": "Princeton",
+    "lat": 40.353545,
+    "lng": -74.659378
+  },
+  {
+    "state": "NJ",
+    "city": "Princeton Univer",
+    "lat": 40.346029,
+    "lng": -74.65754
+  },
+  {
+    "state": "NJ",
+    "city": "Princeton Juncti",
+    "lat": 40.297684,
+    "lng": -74.614596
+  },
+  {
+    "state": "NJ",
+    "city": "Ringoes",
+    "lat": 40.44587,
+    "lng": -74.828839
+  },
+  {
+    "state": "NJ",
+    "city": "Rocky Hill",
+    "lat": 40.400985,
+    "lng": -74.640042
+  },
+  {
+    "state": "NJ",
+    "city": "Roebling",
+    "lat": 40.115352,
+    "lng": -74.777224
+  },
+  {
+    "state": "NJ",
+    "city": "Rosemont",
+    "lat": 40.422005,
+    "lng": -74.991928
+  },
+  {
+    "state": "NJ",
+    "city": "Skillman",
+    "lat": 40.417312,
+    "lng": -74.693828
+  },
+  {
+    "state": "NJ",
+    "city": "Stockton",
+    "lat": 40.43974,
+    "lng": -74.955419
+  },
+  {
+    "state": "NJ",
+    "city": "Titusville",
+    "lat": 40.307728,
+    "lng": -74.865469
+  },
+  {
+    "state": "NJ",
+    "city": "Wrightstown",
+    "lat": 40.071953,
+    "lng": -74.573098
+  },
+  {
+    "state": "NJ",
+    "city": "Trenton",
+    "lat": 40.220437,
+    "lng": -74.762237
+  },
+  {
+    "state": "NJ",
+    "city": "Hamilton",
+    "lat": 40.223338,
+    "lng": -74.742598
+  },
+  {
+    "state": "NJ",
+    "city": "Hamilton",
+    "lat": 40.19894,
+    "lng": -74.717205
+  },
+  {
+    "state": "NJ",
+    "city": "Hamilton",
+    "lat": 40.207297,
+    "lng": -74.751997
+  },
+  {
+    "state": "NJ",
+    "city": "Trenton",
+    "lat": 40.237687,
+    "lng": -74.782062
+  },
+  {
+    "state": "NJ",
+    "city": "Mercerville",
+    "lat": 40.241977,
+    "lng": -74.690377
+  },
+  {
+    "state": "NJ",
+    "city": "Yardville",
+    "lat": 40.178477,
+    "lng": -74.671699
+  },
+  {
+    "state": "NJ",
+    "city": "West Trenton",
+    "lat": 40.267232,
+    "lng": -74.826186
+  },
+  {
+    "state": "NJ",
+    "city": "Hamilton",
+    "lat": 40.219843,
+    "lng": -74.732764
+  },
+  {
+    "state": "NJ",
+    "city": "Trenton",
+    "lat": 40.251006,
+    "lng": -74.762699
+  },
+  {
+    "state": "NJ",
+    "city": "Fort Dix",
+    "lat": 40.009946,
+    "lng": -74.618296
+  },
+  {
+    "state": "NJ",
+    "city": "Mc Guire Afb",
+    "lat": 40.044026,
+    "lng": -74.588195
+  },
+  {
+    "state": "NJ",
+    "city": "Lawrenceville",
+    "lat": 40.277646,
+    "lng": -74.723956
+  },
+  {
+    "state": "NJ",
+    "city": "Hamilton",
+    "lat": 40.223852,
+    "lng": -74.659138
+  },
+  {
+    "state": "NJ",
+    "city": "Hamilton",
+    "lat": 40.231785,
+    "lng": -74.606262
+  },
+  {
+    "state": "NJ",
+    "city": "Lakewood",
+    "lat": 40.085043,
+    "lng": -74.204199
+  },
+  {
+    "state": "NJ",
+    "city": "Bayville",
+    "lat": 39.914708,
+    "lng": -74.190529
+  },
+  {
+    "state": "NJ",
+    "city": "Beachwood",
+    "lat": 39.930246,
+    "lng": -74.196145
+  },
+  {
+    "state": "NJ",
+    "city": "Osbornsville",
+    "lat": 40.040817,
+    "lng": -74.12686
+  },
+  {
+    "state": "NJ",
+    "city": "Brick",
+    "lat": 40.087432,
+    "lng": -74.115237
+  },
+  {
+    "state": "NJ",
+    "city": "Brielle",
+    "lat": 40.107727,
+    "lng": -74.063511
+  },
+  {
+    "state": "NJ",
+    "city": "Forked River",
+    "lat": 39.844425,
+    "lng": -74.197301
+  },
+  {
+    "state": "NJ",
+    "city": "Island Heights",
+    "lat": 39.943197,
+    "lng": -74.146787
+  },
+  {
+    "state": "NJ",
+    "city": "Lakehurst Naec",
+    "lat": 40.020054,
+    "lng": -74.290901
+  },
+  {
+    "state": "NJ",
+    "city": "Lanoka Harbor",
+    "lat": 39.861993,
+    "lng": -74.166765
+  },
+  {
+    "state": "NJ",
+    "city": "Lavallette",
+    "lat": 39.977486,
+    "lng": -74.070424
+  },
+  {
+    "state": "NJ",
+    "city": "Manasquan",
+    "lat": 40.121693,
+    "lng": -74.061055
+  },
+  {
+    "state": "NJ",
+    "city": "Mantoloking",
+    "lat": 40.026125,
+    "lng": -74.056188
+  },
+  {
+    "state": "NJ",
+    "city": "Ocean Gate",
+    "lat": 39.925975,
+    "lng": -74.135128
+  },
+  {
+    "state": "NJ",
+    "city": "Pine Beach",
+    "lat": 39.934746,
+    "lng": -74.167992
+  },
+  {
+    "state": "NJ",
+    "city": "Bay Head",
+    "lat": 40.080226,
+    "lng": -74.065719
+  },
+  {
+    "state": "NJ",
+    "city": "Sea Girt",
+    "lat": 40.134522,
+    "lng": -74.043604
+  },
+  {
+    "state": "NJ",
+    "city": "Seaside Heights",
+    "lat": 39.946639,
+    "lng": -74.076479
+  },
+  {
+    "state": "NJ",
+    "city": "Seaside Park",
+    "lat": 39.922175,
+    "lng": -74.079521
+  },
+  {
+    "state": "NJ",
+    "city": "Toms River",
+    "lat": 39.977083,
+    "lng": -74.156508
+  },
+  {
+    "state": "NJ",
+    "city": "Toms River",
+    "lat": 39.999946,
+    "lng": -74.222819
+  },
+  {
+    "state": "NJ",
+    "city": "Toms River",
+    "lat": 39.971471,
+    "lng": -74.251168
+  },
+  {
+    "state": "NJ",
+    "city": "Waretown",
+    "lat": 39.789646,
+    "lng": -74.195376
+  },
+  {
+    "state": "NJ",
+    "city": "Whiting",
+    "lat": 39.950983,
+    "lng": -74.360713
+  },
+  {
+    "state": "NJ",
+    "city": "Annandale",
+    "lat": 40.628731,
+    "lng": -74.885512
+  },
+  {
+    "state": "NJ",
+    "city": "Pattenburg",
+    "lat": 40.650175,
+    "lng": -75.01585
+  },
+  {
+    "state": "NJ",
+    "city": "Bloomsbury",
+    "lat": 40.64366,
+    "lng": -75.09664
+  },
+  {
+    "state": "NJ",
+    "city": "Bound Brook",
+    "lat": 40.568115,
+    "lng": -74.539735
+  },
+  {
+    "state": "NJ",
+    "city": "Bridgewater",
+    "lat": 40.590388,
+    "lng": -74.626741
+  },
+  {
+    "state": "NJ",
+    "city": "Clinton",
+    "lat": 40.641194,
+    "lng": -74.908846
+  },
+  {
+    "state": "NJ",
+    "city": "Dayton",
+    "lat": 40.38249,
+    "lng": -74.511102
+  },
+  {
+    "state": "NJ",
+    "city": "Green Brook",
+    "lat": 40.594237,
+    "lng": -74.47187
+  },
+  {
+    "state": "NJ",
+    "city": "East Brunswick",
+    "lat": 40.428395,
+    "lng": -74.406381
+  },
+  {
+    "state": "NJ",
+    "city": "Edison",
+    "lat": 40.517079,
+    "lng": -74.397286
+  },
+  {
+    "state": "NJ",
+    "city": "Edison",
+    "lat": 40.57804,
+    "lng": -74.358863
+  },
+  {
+    "state": "NJ",
+    "city": "Flemington",
+    "lat": 40.517976,
+    "lng": -74.845316
+  },
+  {
+    "state": "NJ",
+    "city": "Franklin Park",
+    "lat": 40.442097,
+    "lng": -74.536908
+  },
+  {
+    "state": "NJ",
+    "city": "Kendall Park",
+    "lat": 40.4208,
+    "lng": -74.552921
+  },
+  {
+    "state": "NJ",
+    "city": "Frenchtown",
+    "lat": 40.520795,
+    "lng": -75.032468
+  },
+  {
+    "state": "NJ",
+    "city": "Glen Gardner",
+    "lat": 40.713437,
+    "lng": -74.916207
+  },
+  {
+    "state": "NJ",
+    "city": "Hampton",
+    "lat": 40.677351,
+    "lng": -74.962221
+  },
+  {
+    "state": "NJ",
+    "city": "Helmetta",
+    "lat": 40.377742,
+    "lng": -74.420393
+  },
+  {
+    "state": "NJ",
+    "city": "High Bridge",
+    "lat": 40.668438,
+    "lng": -74.893667
+  },
+  {
+    "state": "NJ",
+    "city": "Iselin",
+    "lat": 40.571593,
+    "lng": -74.316677
+  },
+  {
+    "state": "NJ",
+    "city": "Jamesburg",
+    "lat": 40.342475,
+    "lng": -74.433568
+  },
+  {
+    "state": "NJ",
+    "city": "Keasbey",
+    "lat": 40.519171,
+    "lng": -74.302119
+  },
+  {
+    "state": "NJ",
+    "city": "Lebanon",
+    "lat": 40.646623,
+    "lng": -74.829035
+  },
+  {
+    "state": "NJ",
+    "city": "Manville",
+    "lat": 40.539871,
+    "lng": -74.593377
+  },
+  {
+    "state": "NJ",
+    "city": "Martinsville",
+    "lat": 40.599962,
+    "lng": -74.557191
+  },
+  {
+    "state": "NJ",
+    "city": "Edison",
+    "lat": 40.532476,
+    "lng": -74.337503
+  },
+  {
+    "state": "NJ",
+    "city": "Metuchen",
+    "lat": 40.54493,
+    "lng": -74.351721
+  },
+  {
+    "state": "NJ",
+    "city": "Middlesex",
+    "lat": 40.575882,
+    "lng": -74.500835
+  },
+  {
+    "state": "NJ",
+    "city": "Milford",
+    "lat": 40.592942,
+    "lng": -75.102519
+  },
+  {
+    "state": "NJ",
+    "city": "Milltown",
+    "lat": 40.449346,
+    "lng": -74.439046
+  },
+  {
+    "state": "NJ",
+    "city": "Monmouth Junctio",
+    "lat": 40.394391,
+    "lng": -74.547021
+  },
+  {
+    "state": "NJ",
+    "city": "Neshanic Station",
+    "lat": 40.509551,
+    "lng": -74.71434
+  },
+  {
+    "state": "NJ",
+    "city": "Piscataway",
+    "lat": 40.55152,
+    "lng": -74.458996
+  },
+  {
+    "state": "NJ",
+    "city": "Old Bridge",
+    "lat": 40.398045,
+    "lng": -74.323553
+  },
+  {
+    "state": "NJ",
+    "city": "Parlin",
+    "lat": 40.458701,
+    "lng": -74.304981
+  },
+  {
+    "state": "NJ",
+    "city": "Perth Amboy",
+    "lat": 40.517551,
+    "lng": -74.275427
+  },
+  {
+    "state": "NJ",
+    "city": "Fords",
+    "lat": 40.53925,
+    "lng": -74.311707
+  },
+  {
+    "state": "NJ",
+    "city": "Alpha",
+    "lat": 40.692819,
+    "lng": -75.1741
+  },
+  {
+    "state": "NJ",
+    "city": "Pittstown",
+    "lat": 40.599169,
+    "lng": -74.957587
+  },
+  {
+    "state": "NJ",
+    "city": "Raritan",
+    "lat": 40.57109,
+    "lng": -74.637691
+  },
+  {
+    "state": "NJ",
+    "city": "Sayreville",
+    "lat": 40.459958,
+    "lng": -74.347808
+  },
+  {
+    "state": "NJ",
+    "city": "Somerset",
+    "lat": 40.500743,
+    "lng": -74.50126
+  },
+  {
+    "state": "NJ",
+    "city": "North Branch",
+    "lat": 40.549393,
+    "lng": -74.645926
+  },
+  {
+    "state": "NJ",
+    "city": "Laurence Harbor",
+    "lat": 40.464733,
+    "lng": -74.278635
+  },
+  {
+    "state": "NJ",
+    "city": "South Bound Broo",
+    "lat": 40.552804,
+    "lng": -74.529078
+  },
+  {
+    "state": "NJ",
+    "city": "South River",
+    "lat": 40.444363,
+    "lng": -74.380099
+  },
+  {
+    "state": "NJ",
+    "city": "Spotswood",
+    "lat": 40.384679,
+    "lng": -74.389377
+  },
+  {
+    "state": "NJ",
+    "city": "Stewartsville",
+    "lat": 40.695703,
+    "lng": -75.082517
+  },
+  {
+    "state": "NJ",
+    "city": "Three Bridges",
+    "lat": 40.52156,
+    "lng": -74.799805
+  },
+  {
+    "state": "NJ",
+    "city": "Whitehouse Stati",
+    "lat": 40.599872,
+    "lng": -74.764129
+  },
+  {
+    "state": "NJ",
+    "city": "New Brunswick",
+    "lat": 40.489073,
+    "lng": -74.448193
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "lat": 40.453767,
+    "lng": -74.482285
+  },
+  {
+    "state": "NJ",
+    "city": "Highland Park",
+    "lat": 40.499141,
+    "lng": -74.426602
+  }
+]
